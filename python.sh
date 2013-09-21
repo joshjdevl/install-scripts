@@ -11,3 +11,5 @@ wget http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11-py2.7.eg
 chmod 755 setuptools-0.6c11-py2.7.egg
 #./setuptools-0.6c11-py2.7.egg
 
+wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py
+python get-pip.py
